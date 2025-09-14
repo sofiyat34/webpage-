@@ -1,0 +1,16 @@
+.c-item{
+    height: 480px;
+}
+.c-img{
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.4);
+}
+.overview{
+    height: 180px;
+    background-color: #d3dae1;
+
+}
+footer{
+    text:white;
+}
